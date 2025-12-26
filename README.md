@@ -24,7 +24,7 @@ automation using CI/CD best practices.
 
 ## 📁 Repository Structure
 
+terraform-jenkins-ci-cd/
 ├── Jenkinsfile
-├── Project_VPC/
-│ └── main.tf
+├── main.tf
 └── README.md
